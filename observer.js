@@ -5,7 +5,6 @@ console.log('added 1');
 serv.addItem("item2");
 console.log('added 2');
 
-
 function Service() {
   var self = this;
   var items = [];
